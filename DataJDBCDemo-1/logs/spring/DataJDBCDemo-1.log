@@ -1,0 +1,45 @@
+=2021-07-30 11:32:54.537 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Starting DataJdbcDemo1Application using Java 15.0.1 on DESKTOP-88APUIV with PID 10652 (F:\2 SpringBoot\springboot Intern-Training\DataJDBCDemo-1\target\classes started by vikas in F:\2 SpringBoot\springboot Intern-Training\DataJDBCDemo-1)
+=2021-07-30 11:32:54.539 [INFO ] [main] c.p.d.DataJdbcDemo1Application- No active profile set, falling back to default profiles: default
+=2021-07-30 11:32:56.782 [INFO ] [main] o.s.d.r.c.RepositoryConfigurationDelegate- Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+=2021-07-30 11:32:56.889 [INFO ] [main] o.s.d.r.c.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 97 ms. Found 1 JDBC repository interfaces.
+=2021-07-30 11:32:58.465 [INFO ] [main] c.z.h.HikariDataSource- HikariPool-1 - Starting...
+=2021-07-30 11:32:58.547 [WARN ] [main] c.z.h.u.DriverDataSource- Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+=2021-07-30 11:33:08.237 [INFO ] [main] c.z.h.HikariDataSource- HikariPool-1 - Start completed.
+=2021-07-30 11:33:09.540 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Started DataJdbcDemo1Application in 16.606 seconds (JVM running for 25.281)
+=2021-07-30 11:33:10.396 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=2345, name=Laptop, brand=Dell, price=49308.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1003, name=laptop, brand=intel, price=49000.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1001, name=laptop, brand=HP, price=37000.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1002, name=laptop, brand=asus, price=47000.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1004, name=TV, brand=videocon, price=15000.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1005, name=LED TV, brand=LG, price=20000.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1006, name=MOBILE, brand=SAMSUNG, price=25000.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1007, name=MOBILE, brand=nokia, price=10000.0]
+=2021-07-30 11:33:10.397 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1008, name=MOBILE, brand=1Plus, price=10000.0]
+=2021-07-30 11:33:10.398 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=411, name=laptop, brand=dell, price=5500.0]
+=2021-07-30 11:33:10.398 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=2346, name=Desktop COmputer, brand=Dell, price=52500.0]
+=2021-07-30 11:33:10.537 [ERROR] [main] c.p.d.DataJdbcDemo1Application- Sorry! Product is not found
+=2021-07-30 11:33:10.547 [INFO ] [SpringApplicationShutdownHook] c.z.h.HikariDataSource- HikariPool-1 - Shutdown initiated...
+=2021-07-30 11:33:10.564 [INFO ] [SpringApplicationShutdownHook] c.z.h.HikariDataSource- HikariPool-1 - Shutdown completed.
+=2021-07-30 12:28:01.595 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Starting DataJdbcDemo1Application using Java 15.0.1 on DESKTOP-88APUIV with PID 8256 (F:\2 SpringBoot\springboot Intern-Training\DataJDBCDemo-1\target\classes started by vikas in F:\2 SpringBoot\springboot Intern-Training\DataJDBCDemo-1)
+=2021-07-30 12:28:01.630 [INFO ] [main] c.p.d.DataJdbcDemo1Application- No active profile set, falling back to default profiles: default
+=2021-07-30 12:28:03.232 [INFO ] [main] o.s.d.r.c.RepositoryConfigurationDelegate- Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+=2021-07-30 12:28:03.311 [INFO ] [main] o.s.d.r.c.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 63 ms. Found 1 JDBC repository interfaces.
+=2021-07-30 12:28:04.577 [INFO ] [main] c.z.h.HikariDataSource- HikariPool-1 - Starting...
+=2021-07-30 12:28:04.865 [WARN ] [main] c.z.h.u.DriverDataSource- Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+=2021-07-30 12:28:09.916 [INFO ] [main] c.z.h.HikariDataSource- HikariPool-1 - Start completed.
+=2021-07-30 12:28:10.887 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Started DataJdbcDemo1Application in 10.424 seconds (JVM running for 19.802)
+=2021-07-30 12:28:11.572 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=2345, name=Laptop, brand=Dell, price=49308.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1003, name=laptop, brand=intel, price=49000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1001, name=laptop, brand=HP, price=37000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1002, name=laptop, brand=asus, price=47000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1004, name=TV, brand=videocon, price=15000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1005, name=LED TV, brand=LG, price=20000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1006, name=MOBILE, brand=SAMSUNG, price=25000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1007, name=MOBILE, brand=nokia, price=10000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=1008, name=MOBILE, brand=1Plus, price=10000.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=411, name=laptop, brand=dell, price=5500.0]
+=2021-07-30 12:28:11.573 [INFO ] [main] c.p.d.DataJdbcDemo1Application- Product [id=2346, name=Desktop COmputer, brand=Dell, price=52500.0]
+=2021-07-30 12:28:11.766 [ERROR] [main] c.p.d.DataJdbcDemo1Application- Sorry! Product is not found
+=2021-07-30 12:28:13.106 [INFO ] [main] c.p.d.DataJdbcDemo1Application- NO of Products: 
+=2021-07-30 12:28:13.110 [INFO ] [SpringApplicationShutdownHook] c.z.h.HikariDataSource- HikariPool-1 - Shutdown initiated...
+=2021-07-30 12:28:13.242 [INFO ] [SpringApplicationShutdownHook] c.z.h.HikariDataSource- HikariPool-1 - Shutdown completed.
